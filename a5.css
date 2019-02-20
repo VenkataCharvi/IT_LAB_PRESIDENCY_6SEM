@@ -1,0 +1,10 @@
+div.second {
+opacity:0.3;
+}
+div.second {
+opacity:0.6;
+}
+<div class="first"><p>opacity 0.1</p></div>
+<div class="second"><p>opacity 0.3</p></div>
+<div class="third"><p>opacity 0.6</p></div>
+<div><p>opacity 1(default)</p></div>

@@ -1,0 +1,39 @@
+p {
+color:red;
+text-transform:capitalize;
+font-style:italic;
+}
+#para1 {
+color:blue;
+}
+p.colortext {
+color:green;
+}
+p,h1 {
+color:red;
+}
+p.one {border-style:dotted;
+     border-width:thick;
+border-color:red;}
+
+ 
+p.two {border-style:solid;
+border-left:20px solid green;
+ border-color:green;
+}
+h1 {
+border:1px solid black;
+margin:50px 25px 50px 25px;
+text-transform:uppercase;
+font-size:3em;
+
+}
+body {
+background-image:url("example.jpg");
+background-repeat:repeat-y;
+background-color:yellow;
+}
+a:link ,a:visited {
+background-color:blue;
+}
+
